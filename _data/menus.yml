@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Portfolio
+  url: "portfolio/"
+
 - title: About
   url: "about/"
 
@@ -27,6 +30,6 @@ footermenu:
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Visit Us
+  url: https://ahmedsharifkhan.github.io/
   external: true
